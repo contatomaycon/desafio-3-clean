@@ -1,4 +1,4 @@
-# módulo Clean Architecture - Implementação de Notification Pattern em Produtos
+# Módulo Clean Architecture - Implementação de Notification Pattern em Produtos
 
 Aprendemos que o notification pattern nos auxilia como um container acumulador de erros para que possamos de uma forma mais simples retornarmos nossos erros todos de uma vez evitando assim a geração excessiva de exceções.
 
